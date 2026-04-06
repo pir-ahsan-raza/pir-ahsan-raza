@@ -15,7 +15,6 @@
 [![Fiverr](https://img.shields.io/badge/Fiverr-%230A0A0A.svg?style=for-the-badge&logo=fiverr&logoColor=1DBF73)](https://fiverr.com/YOUR_PROFILE)
 [![Contra](https://img.shields.io/badge/Contra-%230A0A0A.svg?style=for-the-badge&logo=contra&logoColor=white)](https://contra.com/YOUR_PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-%230A0A0A.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PirAhsanRaza)
-[!]
 </div>
 
 ---
@@ -73,3 +72,4 @@ building : AI-powered products at scale
 `// open to freelance · automation · ai builds`
 
 </div>
+<!-- ---!!!--- -->
