@@ -73,3 +73,5 @@ building : AI-powered products at scale
 `// open to freelance · automation · ai builds`
 
 </div>
+
+echo "<!-- yolo -->" >> README.md
