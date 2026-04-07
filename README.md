@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Replace with your own banner image -->
+<!-- ![banner](./assets/banner.gif) -->
+
 ```
 █████╗ ██╗  ██╗███████╗ █████╗ ███╗   ██╗
 ██╔══██╗██║  ██║██╔════╝██╔══██╗████╗  ██║
@@ -9,65 +12,115 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `> Automation Engineer & AI Builder`
+**automation engineer · ai tools builder · bs software engineering @ cust**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A0A0A.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Fiverr](https://img.shields.io/badge/Fiverr-%230A0A0A.svg?style=for-the-badge&logo=fiverr&logoColor=1DBF73)](https://fiverr.com/YOUR_PROFILE)
-[![Contra](https://img.shields.io/badge/Contra-%230A0A0A.svg?style=for-the-badge&logo=contra&logoColor=white)](https://contra.com/YOUR_PROFILE)
+`n8n` · `vapi` · `python` · `llms` · `voice agents`
+
 </div>
 
 ---
 
-### `[ ABOUT ]`
+## `> whoami`
 
 ```yaml
 name     : Pir Ahsan Raza
-location : Islamabad, Pakistan 🇵🇰
-studying : BS Software Engineering @ CUST
-focus    : n8n · AI Agents · Voice Automation
-building : AI-powered products at scale
+location : Islamabad, Pakistan
+role     : Freelance Automation & AI Engineer
+status   : building · shipping · learning
+motto    : "automate the boring. build the interesting."
 ```
 
----
-
-### `[ STACK ]`
-
-![n8n](https://img.shields.io/badge/n8n-%230A0A0A.svg?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![Python](https://img.shields.io/badge/Python-%230A0A0A.svg?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%230A0A0A.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![OpenAI](https://img.shields.io/badge/OpenAI-%230A0A0A.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-%230A0A0A.svg?style=for-the-badge&logo=google-sheets&logoColor=34A853)
-![Vapi](https://img.shields.io/badge/Vapi-%230A0A0A.svg?style=for-the-badge&logo=v&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-%230A0A0A.svg?style=for-the-badge&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-%230A0A0A.svg?style=for-the-badge&logo=twilio&logoColor=F22F46)
-![Git](https://img.shields.io/badge/Git-%230A0A0A.svg?style=for-the-badge&logo=git&logoColor=F05032)
+I build AI-powered workflows and voice agents for startups and small businesses.  
+No fluff — just systems that actually work.
 
 ---
 
-### `[ PROJECTS ]`
+## `> ls ./stack`
 
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 **Sarah — AI Voice Receptionist** | Handles clinic bookings, slot checking & call logging autonomously | Vapi · n8n · GPT-4o · Twilio |
-| 📋 **Owlvest Onboarding Pipeline** | Full investor/founder onboarding with match-alert engine | n8n · Tally · Google Sheets |
-| 🔔 **Match-Alert Engine** | Bidirectional deal-matching system for pre-IPO platform | n8n · Gmail · Slack |
+**Automation & AI**
+`n8n` `Vapi` `ElevenLabs` `OpenAI` `Deepgram` `Twilio` `LangChain`
+
+**Languages**
+`Python` `JavaScript` `Bash`
+
+**Web & APIs**
+`REST` `Webhooks` `FastAPI` `Node.js`
+
+**Tools**
+`Docker` `Git` `Postman` `VS Code`
 
 ---
 
-### `[ STATS ]`
+## `> cat ./projects`
+
+### 🎙️ Sarah — AI Voice Receptionist
+> Intelligent voice agent for clinics and small businesses
+
+Built on **Vapi · n8n · ElevenLabs · GPT-4o · Twilio · Deepgram**
+
+- Handles inbound calls, appointment logic, and FAQs autonomously
+- Dynamic date/time awareness baked into system prompt
+- Live production deployment
+
+---
+
+### 🔗 Owlvest Onboarding Automation
+> End-to-end investor/founder onboarding pipeline
+
+Built with **Tally.so · n8n · Google Sheets · Gmail**
+
+- Conditional 5-page form with founder/investor branching
+- 18-node workflow: webhook → sheets → confirmation emails
+- Bidirectional match-alert engine
+
+---
+
+### 📦 n8n Workflow Library
+> Open-source automation templates
+
+`lead-to-crm` · `ecommerce-order-handler` · `weekly-report` · `notification-hub` · `ai-lead-qualifier`
+
+---
+
+## `> cat ./stats`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PirAhsanRaza&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=888888)
+<!-- GitHub Stats — replace YOUR_USERNAME -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-![Streak](https://streak-stats.demolab.com?user=PirAhsanRaza&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=58a6ff&fire=ff6b6b&currStreakLabel=8b949e)
 
 </div>
 
 ---
 
+### HackerRank
+<!-- Add your HackerRank badge or screenshot here -->
+<!-- ![HackerRank](./assets/hackerrank.png) -->
+
+> 🏅 Replace this with your HackerRank badge or a screenshot of your solved count / certifications
+
+---
+
+### LeetCode
+<!-- Add your LeetCode stats here -->
+<!-- ![LeetCode](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=heatmap) -->
+
+> ⚡ Replace this with your LeetCode stats card — use [leetcard](https://leetcard.jacoblin.cool/)
+
+---
+
+## `> connect`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pir-ahsan-raza/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/8zk403g)
+[![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white)](mailto:its.pirahsanraza@gmail.com)
+
+---
+
 <div align="center">
 
-`// open to freelance · automation · ai builds`
+*open to freelance · automation · voice ai · workflow builds*
 
 </div>
