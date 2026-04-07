@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Replace with your own banner image -->
 <!-- ![banner](./assets/banner.gif) -->
+![Image](https://github.com/user-attachments/assets/7ac79397-e3fd-4b16-9d03-c4ac5190c934)
 
 ```
 █████╗ ██╗  ██╗███████╗ █████╗ ███╗   ██╗
