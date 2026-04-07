@@ -86,28 +86,23 @@ Built with **Tally.so · n8n · Google Sheets · Gmail**
 
 <div align="center">
 
-<!-- GitHub Stats — replace YOUR_USERNAME -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pir-ahsan-raza&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=58a6ff&fire=ff6b6b&currStreakLabel=8b949e)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pir-ahsan-raza&theme=transparent&hide_border=true&ring=58a6ff&fire=ff6b6b&currStreakLabel=8b949e)
 
 </div>
 
 ---
 
 ### HackerRank
-<!-- Add your HackerRank badge or screenshot here -->
-<!-- ![HackerRank](./assets/hackerrank.png) -->
 
-> 🏅 Replace this with your HackerRank badge or a screenshot of your solved count / certifications
+<img width="554" height="395" alt="Image" src="https://github.com/user-attachments/assets/c1b60cbb-c35d-4e2a-9fef-ee48fb0bd603" />
 
 ---
 
 ### LeetCode
-<!-- Add your LeetCode stats here -->
-<!-- ![LeetCode](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=heatmap) -->
 
-> ⚡ Replace this with your LeetCode stats card — use [leetcard](https://leetcard.jacoblin.cool/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pir-ahsan-raza?theme=dark&font=Snippet&ext=heatmap)
 
 ---
 
