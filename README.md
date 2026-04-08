@@ -97,7 +97,9 @@ Built with **Tally.so · n8n · Google Sheets · Gmail**
 ### HackerRank
 
 <img width="554" height="395" alt="Image" src="https://github.com/user-attachments/assets/c1b60cbb-c35d-4e2a-9fef-ee48fb0bd603" />
-[![HackerRank Profile](https://github.com/user-attachments/assets/c1b60cbb-c35d-4e2a-9fef-ee48fb0bd603)](https://www.hackerrank.com/profile/pir-ahsan-raza)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300F7A6.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pir_ahsan_raza)
+
 ---
 
 ### LeetCode
