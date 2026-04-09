@@ -106,9 +106,9 @@ Built with **Tally.so · n8n · Google Sheets · Gmail**
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pir-ahsan-raza?theme=dark&font=Snippet&ext=heatmap)
 
 ---
-<div align="center">
 ## `> connect`
 
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pir-ahsan-raza/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/8zk403g)
 [![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white)](mailto:its.pirahsanraza@gmail.com)
