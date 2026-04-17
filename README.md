@@ -182,6 +182,7 @@ No fluff — just systems that actually work.
 ![Skills](https://skillicons.dev/icons?i=python,js,bash,docker,git,fastapi,postman,vscode&theme=dark)
 
 --
+
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
