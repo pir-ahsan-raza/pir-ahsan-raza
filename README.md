@@ -52,7 +52,7 @@ No fluff — just systems that actually work.
 
 ## `> cat ./projects`
 
-### 🎙️ Sarah — AI Voice Receptionist
+### Sarah (AI Voice Receptionist)
 > Intelligent voice agent for clinics and small businesses
 
 Built on **Vapi · n8n · ElevenLabs · GPT-4o · Twilio · Deepgram**
@@ -63,7 +63,7 @@ Built on **Vapi · n8n · ElevenLabs · GPT-4o · Twilio · Deepgram**
 
 ---
 
-### 🔗 Owlvest Onboarding Automation
+### Owlvest Onboarding Automation
 > End-to-end investor/founder onboarding pipeline
 
 Built with **Tally.so · n8n · Google Sheets · Gmail**
@@ -74,7 +74,7 @@ Built with **Tally.so · n8n · Google Sheets · Gmail**
 
 ---
 
-### 📦 n8n Workflow Library
+### n8n Workflow Library
 > Open-source automation templates
 
 `lead-to-crm` · `ecommerce-order-handler` · `weekly-report` · `notification-hub` · `ai-lead-qualifier`
