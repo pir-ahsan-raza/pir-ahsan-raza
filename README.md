@@ -44,9 +44,9 @@ No fluff, just systems that actually work.
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Web & Tools**
 
@@ -107,7 +107,6 @@ Built with **Tally.so · n8n · Google Sheets · Gmail**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pir-ahsan-raza/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/8zk403g)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/pir_ahsan_raza)
-[![Contra]](https://img.shields.io/badge/contra-%2300EA64.svg?style=for-the-badge&logo=contra&logoColor=black)](https://www.contra.com/profile/pir_ahsan_raza)
 
 </div>
 
