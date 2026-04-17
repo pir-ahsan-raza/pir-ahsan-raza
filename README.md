@@ -28,7 +28,7 @@ motto    : "automate the boring. build the interesting."
 ```
 
 I build AI-powered workflows and voice agents for startups and small businesses.  
-No fluff — just systems that actually work.
+No fluff, just systems that actually work.
 
 ---
 
@@ -43,9 +43,6 @@ No fluff — just systems that actually work.
 ![Twilio](https://img.shields.io/badge/Twilio-%23F22F46.svg?style=for-the-badge&logo=twilio&logoColor=white)
 
 **Languages**
-
-![Skills](https://skillicons.dev/icons?i=python,js,bash,docker,git,fastapi,postman,vscode&theme=dark)
-
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -62,7 +59,7 @@ No fluff — just systems that actually work.
 
 ## `> cat ./projects`
 
-### Sarah — AI Voice Receptionist
+### Sarah (AI Voice Receptionist)
 > Intelligent voice agent for clinics and small businesses
 
 Built on **Vapi · n8n · ElevenLabs · GPT-4o · Twilio · Deepgram**
@@ -73,7 +70,7 @@ Built on **Vapi · n8n · ElevenLabs · GPT-4o · Twilio · Deepgram**
 
 ---
 
-### OwlVest — Onboarding Automation
+### OwlVest Automation
 > Investor & founder onboarding automation for an early-stage startup
 
 Built with **Tally.so · n8n · Google Sheets · Gmail**
@@ -110,7 +107,7 @@ Built with **Tally.so · n8n · Google Sheets · Gmail**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pir-ahsan-raza/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/8zk403g)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/pir_ahsan_raza)
-[![Contra]]()
+[![Contra]](https://img.shields.io/badge/contra-%2300EA64.svg?style=for-the-badge&logo=contra&logoColor=black)](https://www.contra.com/profile/pir_ahsan_raza)
 
 </div>
 
