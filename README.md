@@ -90,14 +90,6 @@ Built with **Tally.so · n8n · Google Sheets · Gmail**
 
 ## `> cat ./stats`
 
-<div>
- 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pir-ahsan-raza&theme=transparent&hide_border=true&ring=58a6ff&fire=ff6b6b&currStreakLabel=8b949e)&nbsp;
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pir-ahsan-raza&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
-</div>
-
-## `> cat ./stats`
-
 <div align="center">
 <table>
 <tr>
