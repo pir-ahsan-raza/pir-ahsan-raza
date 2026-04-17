@@ -225,7 +225,7 @@ Built with **Tally.so · n8n · Google Sheets · Gmail**
 
 ## `> cat ./stats`
 
-<div align="center">
+<div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pir-ahsan-raza&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
