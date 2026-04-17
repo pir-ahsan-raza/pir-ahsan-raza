@@ -242,7 +242,7 @@ Built with **Tally.so · n8n · Google Sheets · Gmail**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pir-ahsan-raza/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/8zk403g)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/pir_ahsan_raza)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:its.pirahsanraza@gmail.com)
+[![Contra]]()
 
 </div>
 
