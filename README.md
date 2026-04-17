@@ -111,7 +111,7 @@ Built with **Tally.so · n8n · Google Sheets · Gmail**
 
 ## `> connect`
 
-<div>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pir-ahsan-raza/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/8zk403g)
