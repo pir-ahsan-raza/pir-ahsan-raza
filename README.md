@@ -28,7 +28,7 @@ motto    : "automate the boring. build the interesting."
 ```
 
 I build AI-powered workflows and voice agents for startups and small businesses.  
-No fluff, just systems that actually work.
+No fluff, just systems that actually work. 
 
 ---
 
