@@ -86,19 +86,6 @@ Built with **Tally.so · n8n · Google Sheets · Gmail**
 
 `lead-to-crm` · `ecommerce-order-handler` · `weekly-report` · `notification-hub` · `ai-lead-qualifier`
 
----
-</td>
-<td>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pir-ahsan-raza&theme=transparent&hide_border=true&ring=58a6ff&fire=ff6b6b&currStreakLabel=8b949e)
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ## `> connect`
 
 <div align="center">
