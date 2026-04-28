@@ -86,17 +86,6 @@ Built with **Tally.so · n8n · Google Sheets · Gmail**
 
 `lead-to-crm` · `ecommerce-order-handler` · `weekly-report` · `notification-hub` · `ai-lead-qualifier`
 
-## `> connect`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pir-ahsan-raza/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/8zk403g)
-[![Contra](https://img.shields.io/badge/Contra-%23000000.svg?style=for-the-badge&logo=contra&logoColor=white)](https://contra.com/pir_ahsan_raza)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/pir_ahsan_raza)
-
-</div>
-
 ---
 
 <div align="center">
