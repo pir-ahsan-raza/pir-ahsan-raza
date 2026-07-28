@@ -1,6 +1,6 @@
 <div align="center">
  
-<img width="735" height="245" alt="Image" src="https://github.com/user-attachments/assets/1de7496a-f101-4aa0-a984-8509db15e270" />
+![img]("https://github.com/user-attachments/assets/1de7496a-f101-4aa0-a984-8509db15e270")
 
 ```
  █████╗ ██╗  ██╗███████╗ █████╗ ███╗   ██╗
